@@ -715,24 +715,3 @@ section.lazy-placeholder:after {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/background4.jpg");
 }
-.cid-rGLsj3v5DZ {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rGLsj3v5DZ .title {
-  margin-bottom: 2rem;
-}
-.cid-rGLsj3v5DZ .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rGLsj3v5DZ a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-rGLsj3v5DZ a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-rGLsj3v5DZ textarea.form-control {
-  min-height: 188px;
-}
